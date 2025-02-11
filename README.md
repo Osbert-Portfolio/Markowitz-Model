@@ -19,4 +19,4 @@ This project implements **Modern Portfolio Theory (MPT)** using the **Markowitz 
 - 🐍 **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn, SciPy
 - 📊 **Financial Data API:** Yahoo Finance (yfinance)
 - ⚡ **Optimization Algorithm:** SciPy’s `minimize()` for portfolio weight optimization
-- 📓 **Jupyter Notebook:** Interactive data exploration and modeling
+
