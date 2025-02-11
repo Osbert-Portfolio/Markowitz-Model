@@ -20,9 +20,3 @@ This project implements **Modern Portfolio Theory (MPT)** using the **Markowitz 
 - 📊 **Financial Data API:** Yahoo Finance (yfinance)
 - ⚡ **Optimization Algorithm:** SciPy’s `minimize()` for portfolio weight optimization
 - 📓 **Jupyter Notebook:** Interactive data exploration and modeling
-
-## 📂 How to Use
-1️⃣ Ensure `yfinance` is installed and functional.
-2️⃣ Run the notebook to fetch stock data and compute returns.
-3️⃣ Optimize the portfolio using Markowitz’s Efficient Frontier.
-4️⃣ Interpret the results and visualize the Efficient Frontier.
